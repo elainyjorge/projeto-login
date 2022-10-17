@@ -34,7 +34,7 @@
 
     background-color: white;
     width: 250px;
-    height: 420px;
+    height: 450px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.452);
 
@@ -46,7 +46,7 @@
     display: block;
     background: #5f2c82 url(../imagens/metal.jpg) no-repeat;
     background-size: cover;
-    height: 200px;
+    height: 180px;
     background-position: left bottom;
  }
 
